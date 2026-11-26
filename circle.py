@@ -10,7 +10,7 @@ def area(r):
             Возвращаемое значение:
                     (float): число, равное площади окружности радиусом r
     '''
-    return math.pi * r * r
+    return math.pi * r * r 
 
 
 def perimeter(r):
